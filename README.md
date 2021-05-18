@@ -12,6 +12,8 @@
 
 1. polyhedral.info : https://polyhedral.info/
 
+1. LLVM dev meetings videos : https://llvm.org/devmtg/
+
 ## Want to read
 
 1. Vim Go Integration: https://octetz.com/docs/2019/2019-04-24-vim-as-a-go-ide/
@@ -22,8 +24,6 @@
 
 1. Graduate Complexity Theory at CMU : https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH
 
-1. How X11 Protocol works: https://unix.stackexchange.com/questions/596894/how-does-linuxs-display-work
-
 1. Computability theory resources (seems cool) : https://www.computability.org/
 
 1. Building own processor (suggest by bollu) :  https://github.com/bollu/mips-bsv/blob/master/reading/computer-arch-a-constructive-approach.pdf
@@ -33,3 +33,9 @@
 1. Writing a hypervisor from scratch : https://github.com/SinaKarvandi/Hypervisor-From-Scratch
 
 1. Writing a renderer : https://github.com/ssloy/tinyrenderer
+
+## Nice blogs or answers
+
+1. How X11 Protocol works: https://unix.stackexchange.com/questions/596894/how-does-linuxs-display-work
+
+1. Stop reimplementing the virtual table and start using double dispatch : https://gieseanw.wordpress.com/2018/12/29/stop-reimplementing-the-virtual-table-and-start-using-double-dispatch/

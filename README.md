@@ -14,6 +14,13 @@
 
 1. LLVM dev meetings videos : https://llvm.org/devmtg/
 
+1. Short course on advanced compilation : https://www.csa.iisc.ac.in/~udayb/slides/uday-polyhedral-opt.pdf
+
+1. Polly original papers:
+    1. https://grosser.science/static/abfead5dc5a8eb0c34ba0769530c0fb8/grosser-2011-Polly-Polyhedral-Optimizations-in-LLVM-IMPACT.pdf
+
+    1. https://grosser.science/static/aa0a34689c2dc41e993b07f4c80cec17/grosser-2012-Polly-Performing-polyhedral-optimizations-on-a-low-level-intermediate-representation.pdf
+
 ## Want to read
 
 1. Vim Go Integration: https://octetz.com/docs/2019/2019-04-24-vim-as-a-go-ide/

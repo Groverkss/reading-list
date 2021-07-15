@@ -39,6 +39,14 @@
 
 1. Writing a renderer : https://github.com/ssloy/tinyrenderer
 
+1. Understanding lvalues and rvalues in C and C++ : https://eli.thegreenplace.net/2011/12/15/understanding-lvalues-and-rvalues-in-c-and-c/
+
+1. Eli Bendersky's blog posts on LLVM and Clang : https://eli.thegreenplace.net/tag/llvm-clang
+
+1. How to write a Good systems Paper : https://www.usenix.org/legacy/publications/library/proceedings/dsl97/good_paper.html
+
+1. Stanford DSL and compilers course page : https://cs343d.github.io/
+
 ## Nice blogs or answers
 
 For some reason plaintext HTML blogs are amazing????? If I ever write blogs
@@ -53,3 +61,5 @@ they have to be plaintext HTML, no fancy JS for me.
 1. LLVM for grad students : http://www.cs.cornell.edu/~asampson/blog/llvm.html
 
 1. Short course on advanced compilation : https://www.csa.iisc.ac.in/~udayb/slides/uday-polyhedral-opt.pdf
+
+1. http://matt-welsh.blogspot.com/2016/04/why-i-gave-your-paper-strong-reject.html
